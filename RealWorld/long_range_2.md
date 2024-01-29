@@ -1,0 +1,1 @@
+There is an audio file in .wav format given in the attachment. Opening it just gave a bunch of beeps, tried it first using a morse code decoder, but did not work. Then found out about a software called DeepSound, which hides secret files such as images into an audio file and locks it with a password. Opening the file thrufh DeepSound also did not work.
