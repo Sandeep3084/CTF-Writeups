@@ -1,0 +1,1 @@
+First I downloaded the attachment and saw that there was a readflag file which had a cat/flag highlighted in it, but then I realised that approach did not work so i used netcat and got an URL. But it just seemed to set uid to 0 and read flag.
